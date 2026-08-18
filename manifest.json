@@ -1,0 +1,18 @@
+{
+  "name": "ouDrop",
+  "short_name": "ouDrop",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#141218",
+  "theme_color": "#141218",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
